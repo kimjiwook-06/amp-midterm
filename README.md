@@ -101,11 +101,3 @@ DEMO_STATE=error/empty는 컴파일 시 고정하므로 정상으로 바꾸려�
 수업 템플릿: https://github.com/xide-projext/mid-project-template · 커밋 3a2d643ed1ff23d378995e5902d42f9edec74fe1. AGENTS, GET 경계·API_BASE·DEMO_STATE 방식, A/B/C 역할, docs 형식을 기반으로 개작했다. 플랫폼은 설치된 Flutter로 생성했다. 사진 검토 D를 설계에 추가했다.
 
 assets/drawer.png는 내장 imagegen 제작. Noto Sans KR는 Google Fonts OFL 폰트이며 라이선스는 assets/fonts/OFL.txt. 서버 버전은 수업 템플릿과 동일한 json-server 0.17.4.
-
-## 제출 전 본인 작업
-- 작성자 칸을 채우고 셀프 논증의 설계 이유를 자기 말로 검토한다.
-- 본인 GitHub에 업로드 후 저장소 URL을 LMS에 제출한다. 이번 작업에서는 업로드·제출하지 않았다.
-- 영상 상대 링크는 GitHub 업로드 후 해당 파일을 가리킨다. 필요하면 영상 파일을 LMS에 별도 첨부한다.
-- 발표 PPTX/PDF는 사용자 요청에 따라 이번 작업에서 제외했다.
-
-
