@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "errors": [],
+  "checks": [
+    "real GET",
+    "voice mock",
+    "search result",
+    "Navigator push/pop",
+    "TabBar",
+    "BottomSheet",
+    "analysis loading",
+    "rename",
+    "mock save",
+    "loading/error/empty",
+    "390px mobile"
+  ]
+}

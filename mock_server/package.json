@@ -1,0 +1,1 @@
+{"name":"eodi-dwotji-mock","version":"1.0.0","private":true,"scripts":{"start":"node server.cjs","mock":"node server.cjs"},"dependencies":{"json-server":"0.17.4"}}

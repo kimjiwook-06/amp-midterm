@@ -1,0 +1,23 @@
+name: eodi_dwotji
+description: 어디 뒀지? - 사진으로 기록하고 말로 찾는 UI 프로토타입
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.10.0
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/drawer.png
+  fonts:
+    - family: NotoSansKR
+      fonts:
+        - asset: assets/fonts/NotoSansKR.ttf

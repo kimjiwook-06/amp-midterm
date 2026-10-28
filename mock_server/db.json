@@ -1,0 +1,6 @@
+{"items":[
+{"id":1,"name":"무선 이어폰","color":"검은색","location":"첫 번째 서랍 · 왼쪽 칸","use":"음악 듣기","icon":"earbuds","x":0.34,"y":0.50},
+{"id":2,"name":"충전 케이블","color":"흰색","location":"첫 번째 서랍 · 오른쪽 가운데","use":"기기 충전","icon":"cable","x":0.70,"y":0.50},
+{"id":3,"name":"집 열쇠","color":"은색 · 초록 키링","location":"첫 번째 서랍 · 오른쪽 아래","use":"문 열기","icon":"keys","x":0.70,"y":0.73},
+{"id":4,"name":"작은 노트","color":"짙은 남색","location":"첫 번째 서랍 · 오른쪽 위","use":"메모하기","icon":"notebook","x":0.69,"y":0.26}
+]}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "R1",
+    "date": "2026-08-25T19:26:58-07:00",
+    "stars": 1,
+    "quote": "Shouldn’t need to create an account",
+    "source": "https://itunes.apple.com/us/rss/customerreviews/id=952405279/sortBy=mostRecent/json"
+  },
+  {
+    "id": "R2",
+    "date": "2026-06-17T16:21:13-07:00",
+    "stars": 2,
+    "quote": "Now it is lagging to open",
+    "source": "https://itunes.apple.com/us/rss/customerreviews/id=952405279/sortBy=mostRecent/json"
+  },
+  {
+    "id": "R3",
+    "date": "2026-01-09T21:37:27-07:00",
+    "stars": 1,
+    "quote": "They would disappear",
+    "source": "https://itunes.apple.com/us/rss/customerreviews/id=952405279/sortBy=mostRecent/json"
+  },
+  {
+    "id": "R4",
+    "date": "2024-10-25T11:59:35-07:00",
+    "stars": 5,
+    "quote": "did not know",
+    "source": "https://itunes.apple.com/us/rss/customerreviews/id=952405279/sortBy=mostRecent/json"
+  }
+]

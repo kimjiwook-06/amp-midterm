@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-28",
+  "region": "US",
+  "average": 4.5,
+  "ratingCount": 169,
+  "fiveToOne": [
+    128,
+    18,
+    6,
+    7,
+    10
+  ],
+  "rawAggregateSnippet": "ratingCounts\":[128,18,6,7.000000000000001,10]}],\"url\":null,\"mergeWhenFetched\":fals",
+  "source": "https://apps.apple.com/us/app/itemtopia-inventory/id952405279?see-all=reviews"
+}
